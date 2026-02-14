@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "雨愛",
+  "base_artist": "楊丞琳",
+  "createdAt": "2026-02-14T13:37:08.647113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/01_雨愛_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨愛 - Yu Ai",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/02_雨愛_-_Yu_Ai_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/03_雨愛_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/04_雨愛_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "Andrew Tan",
+      "has_synced": true,
+      "path": "select/05_雨愛_Andrew_Tan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/06_雨愛_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/07_雨愛_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "陳勢安",
+      "has_synced": true,
+      "path": "select/08_雨愛_陳勢安.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雨愛",
+      "artist": "楊丞琳",
+      "has_synced": true,
+      "path": "select/09_雨愛_楊丞琳.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨愛",
+      "artist": "楊丞琳",
+      "has_synced": false,
+      "path": "select/pl_01_雨愛_楊丞琳.txt"
+    }
+  ]
+}
